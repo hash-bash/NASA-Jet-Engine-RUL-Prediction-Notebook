@@ -18,4 +18,5 @@ Prediction of Remaining Useful Life (RUL) of NASA Turbofan Jet Engine using libr
   5)  Operational setting 3
   6)  Sensor measurement  1
   7)  Sensor measurement  2
-  26) sensor measurement  26
+  
+  26) Sensor measurement  26
