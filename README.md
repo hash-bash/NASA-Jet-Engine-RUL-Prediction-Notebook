@@ -11,12 +11,12 @@ Prediction of Remaining Useful Life (RUL) of NASA Turbofan Jet Engine using libr
 
 ### The data are provided as a text file with 26 columns of numbers, separated by spaces. Each row is a snapshot of data taken during a single operational cycle, each column is a different variable. The columns correspond to:
 
-  1)    unit number
-  2)    time, in cycles
-  3)    operational setting 1
-  4)    operational setting 2
-  5)    operational setting 3
-  6)    sensor measurement  1
-  7)    sensor measurement  2
-  ...
-  26)    sensor measurement  26
+  1)  unit number
+  2)  time, in cycles
+  3)  operational setting 1
+  4)  operational setting 2
+  5)  operational setting 3
+  6)  sensor measurement  1
+  7)  sensor measurement  2
+  8)  ...
+  26) sensor measurement  26
