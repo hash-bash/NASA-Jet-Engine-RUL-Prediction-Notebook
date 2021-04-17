@@ -3,11 +3,11 @@ Prediction of Remaining Useful Life (RUL) of NASA Turbofan Jet Engine using libr
 
 ### Data set characteristics:
 
-  a) Data set name: NASA Turbojet (FD002)
-  b) Train trjectories: 260
-  c) Test trajectories: 259
-  d) Conditions: SIX 
-  e) Fault Modes: ONE (HPC Degradation)
+  1)  Data set name: NASA Turbojet (FD002)
+  2)  Train trjectories: 260
+  3)  Test trajectories: 259
+  4)  Conditions: SIX 
+  5)  Fault Modes: ONE (HPC Degradation)
 
 ### The data are provided as a text file with 26 columns of numbers, separated by spaces. Each row is a snapshot of data taken during a single operational cycle, each column is a different variable. The columns correspond to:
 
