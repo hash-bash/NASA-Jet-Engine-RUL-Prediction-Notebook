@@ -1,7 +1,7 @@
 # NASA Jet Engine Remaining Useful Life (RUL) Prediction Notebook
-Prediction of Remaining Useful Life (RUL) of NASA Turbofan Jet Engine using libraries such as Numpy, Matplotlib and Pandas. Prediction is done by training a model using Keras (TensorFlow).
+Prediction of Remaining Useful Life (RUL) of NASA Turbofan Jet Engine dataset using libraries such as Numpy, Matplotlib and Pandas. Prediction is done by training a model using Keras (TensorFlow).
 
-### Data set characteristics:
+### Dataset characteristics:
 
  - Data set name: NASA Turbojet (FD002)
  - Train trjectories: 260
